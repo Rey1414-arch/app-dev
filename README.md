@@ -1,37 +1,18 @@
-# app-dev
-My first repository
+# My Favorite Series: Game of Thrones
 
-# **List of my Favorite Series**
-*Anime Series*
-1. One Peice
-2. Kimetsu no Yaiba
-3. Maschle
-4. Dragon Ball
-5. Naruto Shipuden
-6. Buruto
-7. Kaiju No. 8
-8. My Hero Academia
-9. Mushoke Tensei
-10. Haikyu
-11. Oshi no Ko
-12. Solo Leveling
-13. One punch man
-14. Frieren
-15. Bleach
-16. Tensei shitara Slime DAtta Ken
-17. Kono Suba
-18. Buko no Hero Academia
-19. Lvl 2 kara Cheat
-20. Date A Live
+## Overview
+Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.
 
-*Movie Series*
-1. Inside Out 2
-2. Deadpool and Welverine
-3. Despicable Me 4
-4. Dune
-5. Twister
-6. Quite Place
-7. Furiosa
-8. The Mean Girls movie musical
-9. The Fall Guy
-10. Wikced
+### Key Details
+- **Genre:** Dark Fantasy / Political Drama / Action
+- **Seasons:** 8
+- **Platform:** HBO / Max
+
+---
+
+### Favorite Characters
+1. *Tyrion Lannister* - Known for his intellect, wit, and sharp strategy.
+2. *Jon Snow* - The honorable bastard of Winterfell turned King in the North.
+3. *Arya Stark* - Trained assassin of the House of Black and White.
+
+> "When you play the game of thrones, you win or you die. There is no middle ground." — Cersei Lannister
